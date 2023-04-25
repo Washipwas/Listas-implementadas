@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="Lista.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="71"/>
+        <CursorPos X="111" Y="82"/>
+        <UsageCount Value="41"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ulistapunterocabecerafinalej.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uListaPunteroCabeceraFinalej"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="175"/>
+        <CursorPos X="14" Y="3"/>
+        <UsageCount Value="41"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uelementointej.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uElementoIntej"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="20"/>
+        <UsageCount Value="40"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ulistaestaticacircularej.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uListaEstaticaCircularej"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="32"/>
+        <CursorPos X="36" Y="42"/>
+        <UsageCount Value="38"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ulistaestaticaquesimuladinamicaej.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uListaEstaticaQueSimulaDinamicaej"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="168"/>
+        <CursorPos X="6" Y="178"/>
+        <UsageCount Value="29"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ulistadoblementeenlazadaej.pas"/>
+        <UnitName Value="uListaDoblementeEnlazadaej"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="30"/>
+        <CursorPos X="36" Y="37"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\Universidad\ED\Listas\uelementoint.pas"/>
+        <UnitName Value="uElementoInt"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="25" Y="37"/>
+        <UsageCount Value="9"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="20">
+      <Position>
+        <Filename Value="Lista.lpr"/>
+        <Caret Line="91" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaestaticaquesimuladinamicaej.pas"/>
+        <Caret Line="19" Column="3" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaestaticaquesimuladinamicaej.pas"/>
+        <Caret Line="52" Column="13" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaestaticaquesimuladinamicaej.pas"/>
+        <Caret Line="70" Column="31" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaestaticaquesimuladinamicaej.pas"/>
+        <Caret Line="82" Column="37" TopLine="71"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaestaticaquesimuladinamicaej.pas"/>
+        <Caret Line="121" Column="26" TopLine="112"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaestaticaquesimuladinamicaej.pas"/>
+        <Caret Line="136" Column="46" TopLine="125"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaestaticaquesimuladinamicaej.pas"/>
+        <Caret Line="140" Column="42" TopLine="130"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaestaticaquesimuladinamicaej.pas"/>
+        <Caret Line="154" Column="45" TopLine="143"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaestaticaquesimuladinamicaej.pas"/>
+        <Caret Line="158" Column="41" TopLine="143"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaestaticaquesimuladinamicaej.pas"/>
+        <Caret Line="204" Column="29" TopLine="186"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaestaticaquesimuladinamicaej.pas"/>
+        <Caret Line="281" Column="14" TopLine="263"/>
+      </Position>
+      <Position>
+        <Filename Value="Lista.lpr"/>
+        <Caret Line="69" Column="10" TopLine="54"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaestaticaquesimuladinamicaej.pas"/>
+        <Caret Line="178" Column="53" TopLine="168"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaestaticaquesimuladinamicaej.pas"/>
+        <Caret Line="187" Column="12" TopLine="177"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaestaticaquesimuladinamicaej.pas"/>
+        <Caret Line="201" Column="48" TopLine="191"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaestaticaquesimuladinamicaej.pas"/>
+        <Caret Line="206" Column="42" TopLine="196"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaestaticaquesimuladinamicaej.pas"/>
+        <Caret Line="226" Column="13" TopLine="217"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaestaticaquesimuladinamicaej.pas"/>
+        <Caret Line="100" Column="27" TopLine="95"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaestaticaquesimuladinamicaej.pas"/>
+        <Caret Line="89" Column="15" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaestaticaquesimuladinamicaej.pas"/>
+        <Caret Line="102" Column="27" TopLine="150"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
